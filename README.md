@@ -1,8 +1,10 @@
 # 👋 Hello, I'm CHANGEME
 
 ## 💡 About Me
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.  
-My journey in computer science has led me to develop a strong passion for **cybersecurity**, and I am now eager to begin my professional path in this field — specifically aiming to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst**.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My journey in computer science has led me to develop a strong passion for cybersecurity, with a specific focus on network security. I am now eager to begin my professional career in this field — aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can specialize in monitoring network traffic, detecting intrusions, and mitigating network-based threats to help ensure the security and resilience of critical systems.
+
+
 
 ---
 
